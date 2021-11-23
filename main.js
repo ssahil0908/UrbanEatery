@@ -6,7 +6,6 @@ navBar.forEach(function (a) {
         navCollapse.classList.remove("show");
     })
 })
-
 // to design counter
 document.addEventListener("DOMContentLoaded", () => {
     function counter(id, start, end, duration) {
